@@ -3,11 +3,8 @@
 #include <stdlib.h>
 
 /**
-
- * main - main fuction generate a random number
-
+ * main - prints if the number is positive, negative or 0
  * Return: return 0(successful)
-
  */
 
 int main(void)
