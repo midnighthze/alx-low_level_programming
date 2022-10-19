@@ -9,6 +9,6 @@ include "main.h"
 
 int add(int a, int b)
 
-{c
+{
 return (a + b);
 }
