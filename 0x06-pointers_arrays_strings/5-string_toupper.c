@@ -1,6 +1,7 @@
 include "main.h"
 
 /**
+ * main - check the code
  * string_toupper - Changes all lowercase letters
  *                  of a string to uppercase.
  * @str: The string to be changed.
